@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:flutter/widgets.dart';
 
 class FontAwsome5Solid {
   FontAwsome5Solid._();

@@ -83,7 +83,11 @@ flutter:
           fonts:
           - asset: fonts/FontAwsome5Regular.ttf
 
-          
+       - family:  Feather
+         fonts:
+         - asset: fonts/Feather.ttf
+
+
 
   # To add assets to your package, add an assets section, like this:
   # assets:
