@@ -77,15 +77,15 @@ flutter:
         
         - family:  FontAwsome5Brands
           fonts:
-          - asset: fonts/FontAwsome5Brands.ttf
+          - asset: assets/fonts/FontAwsome5Brands.ttf
 
         - family:  FontAwsome5Regular
           fonts:
-          - asset: fonts/FontAwsome5Regular.ttf
+          - asset: assets/fonts/FontAwsome5Regular.ttf
 
-       - family:  Feather
-         fonts:
-         - asset: fonts/Feather.ttf
+        - family:  Feather
+          fonts:
+          - asset: assets/fonts/Feather.ttf
 
 
 
