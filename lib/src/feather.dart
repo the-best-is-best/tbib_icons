@@ -4,7 +4,7 @@ class Feather {
   Feather._();
 
   static const _kFontFam = 'Feather';
-  static const String? _kFontPkg = null;
+  static const String? _kFontPkg = "tbib_flutter_icons";
 
   static const IconData alert_triangle =
       IconData(0xe800, fontFamily: _kFontFam, fontPackage: _kFontPkg);
